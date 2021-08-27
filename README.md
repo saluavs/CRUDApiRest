@@ -1,6 +1,11 @@
 # prueba
 
 > A Vue.js project
+> 
+***********************
+user: stephalv@msn.com
+contraseña: 12345678
+***********************
 
 ## Build Setup
 
