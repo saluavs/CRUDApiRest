@@ -4,7 +4,7 @@
 > 
 ***********************
 user: stephalv@msn.com
-contraseña: 12345678
+password: 12345678
 ***********************
 
 ## Build Setup
